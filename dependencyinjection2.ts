@@ -26,5 +26,3 @@ const packageService = new PackageService();
 
 // Envía un paquete a una dirección específica utilizando BikeDelivery
 packageService.sendPackage("PKG123", "123 Main St.");
-
-// Nota: El código para la entrega real del paquete con una bicicleta no está implementado aquí y debe ser proporcionado según tu entorno de desarrollo y los detalles de la entrega logística.
