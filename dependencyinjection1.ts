@@ -27,4 +27,3 @@ const musicStore = new MusicStore();
 // Notificar el lanzamiento de un nuevo álbum a un cliente por correo electrónico
 musicStore.newAlbumRelease("customer@example.com", "Artist Name", "Awesome Album");
 
-// Nota: El código para enviar el correo electrónico real no está implementado aquí y debe ser proporcionado según tu entorno de desarrollo y el servicio de correo que utilices.
