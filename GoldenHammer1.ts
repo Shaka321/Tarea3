@@ -39,7 +39,4 @@ todoManager.add("Hacer ejercicio");
 todoManager.add("Estudiar programación");
 
 // Eliminar una tarea por índice
-todoManager.remove(1); // Elimina la segunda tarea
-
-// Nota: El código para guardar y renderizar en el almacenamiento local y la interfaz de usuario
-// no está implementado en este ejemplo y debe ser proporcionado por ti, según tu entorno de desarrollo.
+todoManager.remove(1); // Elimina la segunda 
