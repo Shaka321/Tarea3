@@ -34,7 +34,3 @@ graph.drawPieChart([25, 15, 30, 10]);
 
 // Dibujar un gráfico radial
 graph.drawRadialChart([0.2, 0.3, 0.4, 0.1]);
-
-// Nota: La lógica real para dibujar los gráficos de barras, pastel y radiales
-// no está implementada en este ejemplo y debe ser proporcionada por ti utilizando
-// las herramientas y librerías adecuadas para la visualización de datos.
